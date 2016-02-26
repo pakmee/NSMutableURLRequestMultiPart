@@ -1,2 +1,2 @@
 # NSMutableURLRequestMultiPart
-A category to facilitate multipart requests using the NSURLSession.
+A category for the NSMutableURLRequest to facilitate multipart requests.
